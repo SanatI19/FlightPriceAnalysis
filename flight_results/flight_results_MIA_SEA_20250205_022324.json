@@ -1,0 +1,251 @@
+{
+  "search_parameters": {
+    "departure": "MIA",
+    "destination": "SEA",
+    "departure_date": "2025-03-01",
+    "return_date": null,
+    "search_timestamp": "20250205_022324"
+  },
+  "price_history": [
+    {
+      "date": "Sat, Feb 22",
+      "price": "$195"
+    },
+    {
+      "date": "Sun, Feb 23",
+      "price": "$353"
+    },
+    {
+      "date": "Mon, Feb 24",
+      "price": "$176"
+    },
+    {
+      "date": "Tue, Feb 25",
+      "price": "$145"
+    },
+    {
+      "date": "Wed, Feb 26",
+      "price": "$65"
+    },
+    {
+      "date": "Thu, Feb 27",
+      "price": "$96"
+    },
+    {
+      "date": "Fri, Feb 28",
+      "price": "$97"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sun, Mar 2",
+      "price": "$181"
+    },
+    {
+      "date": "Mon, Mar 3",
+      "price": "$85"
+    },
+    {
+      "date": "Tue, Mar 4",
+      "price": "$84"
+    },
+    {
+      "date": "Wed, Mar 5",
+      "price": "$85"
+    },
+    {
+      "date": "Thu, Mar 6",
+      "price": "$65"
+    },
+    {
+      "date": "Fri, Mar 7",
+      "price": "$127"
+    },
+    {
+      "date": "Sat, Mar 8",
+      "price": "$96"
+    },
+    {
+      "date": "Sun, Mar 9",
+      "price": "$101"
+    },
+    {
+      "date": "Mon, Mar 10",
+      "price": "$85"
+    },
+    {
+      "date": "Tue, Mar 11",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Mar 12",
+      "price": "$85"
+    },
+    {
+      "date": "Thu, Mar 13",
+      "price": "$97"
+    },
+    {
+      "date": "Fri, Mar 14",
+      "price": "$129"
+    },
+    {
+      "date": "Sat, Mar 15",
+      "price": "$127"
+    },
+    {
+      "date": "Sun, Mar 16",
+      "price": "$120"
+    },
+    {
+      "date": "Mon, Mar 17",
+      "price": "$145"
+    },
+    {
+      "date": "Tue, Mar 18",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Mar 19",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Mar 20",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Mar 21",
+      "price": "$121"
+    },
+    {
+      "date": "Sat, Mar 22",
+      "price": "$172"
+    },
+    {
+      "date": "Sun, Mar 23",
+      "price": "$170"
+    },
+    {
+      "date": "Mon, Mar 24",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Mar 25",
+      "price": "$104"
+    },
+    {
+      "date": "Wed, Mar 26",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Mar 27",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Mar 28",
+      "price": "$164"
+    },
+    {
+      "date": "Sat, Mar 29",
+      "price": "$202"
+    },
+    {
+      "date": "Sun, Mar 30",
+      "price": "$221"
+    },
+    {
+      "date": "Mon, Mar 31",
+      "price": "$175"
+    },
+    {
+      "date": "Tue, Apr 1",
+      "price": "$113"
+    },
+    {
+      "date": "Wed, Apr 2",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Apr 3",
+      "price": "$85"
+    },
+    {
+      "date": "Fri, Apr 4",
+      "price": "$129"
+    },
+    {
+      "date": "Sat, Apr 5",
+      "price": "$96"
+    },
+    {
+      "date": "Sun, Apr 6",
+      "price": "$193"
+    },
+    {
+      "date": "Mon, Apr 7",
+      "price": "$113"
+    },
+    {
+      "date": "Tue, Apr 8",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Apr 9",
+      "price": "$84"
+    },
+    {
+      "date": "Thu, Apr 10",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Apr 11",
+      "price": "$181"
+    },
+    {
+      "date": "Sat, Apr 12",
+      "price": "$269"
+    },
+    {
+      "date": "Sun, Apr 13",
+      "price": "$218"
+    },
+    {
+      "date": "Mon, Apr 14",
+      "price": "$113"
+    },
+    {
+      "date": "Tue, Apr 15",
+      "price": "$99"
+    },
+    {
+      "date": "Wed, Apr 16",
+      "price": "$129"
+    },
+    {
+      "date": "Thu, Apr 17",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Apr 18",
+      "price": "$170"
+    },
+    {
+      "date": "Sat, Apr 19",
+      "price": "$224"
+    },
+    {
+      "date": "Sun, Apr 20",
+      "price": "$268"
+    },
+    {
+      "date": "Mon, Apr 21",
+      "price": "$91"
+    },
+    {
+      "date": "Tue, Apr 22",
+      "price": "$91"
+    }
+  ]
+}

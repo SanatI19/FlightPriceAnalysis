@@ -1,0 +1,251 @@
+{
+  "search_parameters": {
+    "departure": "MIA",
+    "destination": "SEA",
+    "departure_date": "2025-03-01",
+    "return_date": null,
+    "search_timestamp": "20250205_020607"
+  },
+  "price_history": [
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    }
+  ]
+}

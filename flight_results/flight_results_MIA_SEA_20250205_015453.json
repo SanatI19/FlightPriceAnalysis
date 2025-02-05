@@ -1,0 +1,10 @@
+{
+  "search_parameters": {
+    "departure": "MIA",
+    "destination": "SEA",
+    "departure_date": "2025-03-01",
+    "return_date": null,
+    "search_timestamp": "20250205_015453"
+  },
+  "price_history": []
+}

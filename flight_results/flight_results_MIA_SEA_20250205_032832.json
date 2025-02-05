@@ -1,0 +1,1427 @@
+{
+  "search_parameters": {
+    "departure": "MIA",
+    "destination": "SEA",
+    "departure_date": "2025-03-01",
+    "return_date": null,
+    "search_timestamp": "20250205_032832"
+  },
+  "price_history": [
+    {
+      "date": "Wed, Feb 5",
+      "price": "$440"
+    },
+    {
+      "date": "Thu, Feb 6",
+      "price": "$201"
+    },
+    {
+      "date": "Fri, Feb 7",
+      "price": "$302"
+    },
+    {
+      "date": "Sat, Feb 8",
+      "price": "$201"
+    },
+    {
+      "date": "Sun, Feb 9",
+      "price": "$187"
+    },
+    {
+      "date": "Mon, Feb 10",
+      "price": "$176"
+    },
+    {
+      "date": "Tue, Feb 11",
+      "price": "$277"
+    },
+    {
+      "date": "Wed, Feb 12",
+      "price": "$103"
+    },
+    {
+      "date": "Thu, Feb 13",
+      "price": "$235"
+    },
+    {
+      "date": "Fri, Feb 14",
+      "price": "$151"
+    },
+    {
+      "date": "Sat, Feb 15",
+      "price": "$129"
+    },
+    {
+      "date": "Sun, Feb 16",
+      "price": "$181"
+    },
+    {
+      "date": "Mon, Feb 17",
+      "price": "$351"
+    },
+    {
+      "date": "Tue, Feb 18",
+      "price": "$134"
+    },
+    {
+      "date": "Wed, Feb 19",
+      "price": "$119"
+    },
+    {
+      "date": "Thu, Feb 20",
+      "price": "$145"
+    },
+    {
+      "date": "Fri, Feb 21",
+      "price": "$211"
+    },
+    {
+      "date": "Sat, Feb 22",
+      "price": "$195"
+    },
+    {
+      "date": "Sun, Feb 23",
+      "price": "$353"
+    },
+    {
+      "date": "Mon, Feb 24",
+      "price": "$176"
+    },
+    {
+      "date": "Tue, Feb 25",
+      "price": "$145"
+    },
+    {
+      "date": "Wed, Feb 26",
+      "price": "$65"
+    },
+    {
+      "date": "Thu, Feb 27",
+      "price": "$96"
+    },
+    {
+      "date": "Fri, Feb 28",
+      "price": "$97"
+    },
+    {
+      "date": "Sat, Mar 1",
+      "price": "$85"
+    },
+    {
+      "date": "Sun, Mar 2",
+      "price": "$181"
+    },
+    {
+      "date": "Mon, Mar 3",
+      "price": "$85"
+    },
+    {
+      "date": "Tue, Mar 4",
+      "price": "$84"
+    },
+    {
+      "date": "Wed, Mar 5",
+      "price": "$85"
+    },
+    {
+      "date": "Thu, Mar 6",
+      "price": "$65"
+    },
+    {
+      "date": "Fri, Mar 7",
+      "price": "$127"
+    },
+    {
+      "date": "Sat, Mar 8",
+      "price": "$96"
+    },
+    {
+      "date": "Sun, Mar 9",
+      "price": "$101"
+    },
+    {
+      "date": "Mon, Mar 10",
+      "price": "$85"
+    },
+    {
+      "date": "Tue, Mar 11",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Mar 12",
+      "price": "$85"
+    },
+    {
+      "date": "Thu, Mar 13",
+      "price": "$97"
+    },
+    {
+      "date": "Fri, Mar 14",
+      "price": "$129"
+    },
+    {
+      "date": "Sat, Mar 15",
+      "price": "$127"
+    },
+    {
+      "date": "Sun, Mar 16",
+      "price": "$120"
+    },
+    {
+      "date": "Mon, Mar 17",
+      "price": "$145"
+    },
+    {
+      "date": "Tue, Mar 18",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Mar 19",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Mar 20",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Mar 21",
+      "price": "$121"
+    },
+    {
+      "date": "Sat, Mar 22",
+      "price": "$172"
+    },
+    {
+      "date": "Sun, Mar 23",
+      "price": "$170"
+    },
+    {
+      "date": "Mon, Mar 24",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Mar 25",
+      "price": "$104"
+    },
+    {
+      "date": "Wed, Mar 26",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Mar 27",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Mar 28",
+      "price": "$165"
+    },
+    {
+      "date": "Sat, Mar 29",
+      "price": "$202"
+    },
+    {
+      "date": "Sun, Mar 30",
+      "price": "$221"
+    },
+    {
+      "date": "Mon, Mar 31",
+      "price": "$175"
+    },
+    {
+      "date": "Tue, Apr 1",
+      "price": "$113"
+    },
+    {
+      "date": "Wed, Apr 2",
+      "price": "$96"
+    },
+    {
+      "date": "Thu, Apr 3",
+      "price": "$85"
+    },
+    {
+      "date": "Fri, Apr 4",
+      "price": "$129"
+    },
+    {
+      "date": "Sat, Apr 5",
+      "price": "$96"
+    },
+    {
+      "date": "Sun, Apr 6",
+      "price": "$193"
+    },
+    {
+      "date": "Mon, Apr 7",
+      "price": "$113"
+    },
+    {
+      "date": "Tue, Apr 8",
+      "price": "$98"
+    },
+    {
+      "date": "Wed, Apr 9",
+      "price": "$84"
+    },
+    {
+      "date": "Thu, Apr 10",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Apr 11",
+      "price": "$181"
+    },
+    {
+      "date": "Sat, Apr 12",
+      "price": "$284"
+    },
+    {
+      "date": "Sun, Apr 13",
+      "price": "$218"
+    },
+    {
+      "date": "Mon, Apr 14",
+      "price": "$113"
+    },
+    {
+      "date": "Tue, Apr 15",
+      "price": "$99"
+    },
+    {
+      "date": "Wed, Apr 16",
+      "price": "$129"
+    },
+    {
+      "date": "Thu, Apr 17",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, Apr 18",
+      "price": "$170"
+    },
+    {
+      "date": "Sat, Apr 19",
+      "price": "$224"
+    },
+    {
+      "date": "Sun, Apr 20",
+      "price": "$268"
+    },
+    {
+      "date": "Mon, Apr 21",
+      "price": "$91"
+    },
+    {
+      "date": "Tue, Apr 22",
+      "price": "$91"
+    },
+    {
+      "date": "Wed, Apr 23",
+      "price": "$91"
+    },
+    {
+      "date": "Thu, Apr 24",
+      "price": "$91"
+    },
+    {
+      "date": "Fri, Apr 25",
+      "price": "$85"
+    },
+    {
+      "date": "Sat, Apr 26",
+      "price": "$91"
+    },
+    {
+      "date": "Sun, Apr 27",
+      "price": "$151"
+    },
+    {
+      "date": "Mon, Apr 28",
+      "price": "$104"
+    },
+    {
+      "date": "Tue, Apr 29",
+      "price": "$71"
+    },
+    {
+      "date": "Wed, Apr 30",
+      "price": "$71"
+    },
+    {
+      "date": "Thu, May 1",
+      "price": "$85"
+    },
+    {
+      "date": "Fri, May 2",
+      "price": "$111"
+    },
+    {
+      "date": "Sat, May 3",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, May 4",
+      "price": "$187"
+    },
+    {
+      "date": "Mon, May 5",
+      "price": "$151"
+    },
+    {
+      "date": "Tue, May 6",
+      "price": "$91"
+    },
+    {
+      "date": "Wed, May 7",
+      "price": "$71"
+    },
+    {
+      "date": "Thu, May 8",
+      "price": "$91"
+    },
+    {
+      "date": "Fri, May 9",
+      "price": "$91"
+    },
+    {
+      "date": "Sat, May 10",
+      "price": "$131"
+    },
+    {
+      "date": "Sun, May 11",
+      "price": "$198"
+    },
+    {
+      "date": "Mon, May 12",
+      "price": "$131"
+    },
+    {
+      "date": "Tue, May 13",
+      "price": "$129"
+    },
+    {
+      "date": "Wed, May 14",
+      "price": "$129"
+    },
+    {
+      "date": "Thu, May 15",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, May 16",
+      "price": "$129"
+    },
+    {
+      "date": "Sat, May 17",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, May 18",
+      "price": "$259"
+    },
+    {
+      "date": "Mon, May 19",
+      "price": "$145"
+    },
+    {
+      "date": "Tue, May 20",
+      "price": "$129"
+    },
+    {
+      "date": "Wed, May 21",
+      "price": "$129"
+    },
+    {
+      "date": "Thu, May 22",
+      "price": "$129"
+    },
+    {
+      "date": "Fri, May 23",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, May 24",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, May 25",
+      "price": "$149"
+    },
+    {
+      "date": "Mon, May 26",
+      "price": "$319"
+    },
+    {
+      "date": "Tue, May 27",
+      "price": "$115"
+    },
+    {
+      "date": "Wed, May 28",
+      "price": "$115"
+    },
+    {
+      "date": "Thu, May 29",
+      "price": "$115"
+    },
+    {
+      "date": "Fri, May 30",
+      "price": "$115"
+    },
+    {
+      "date": "Sat, May 31",
+      "price": "$115"
+    },
+    {
+      "date": "Sun, Jun 1",
+      "price": "$163"
+    },
+    {
+      "date": "Mon, Jun 2",
+      "price": "$141"
+    },
+    {
+      "date": "Tue, Jun 3",
+      "price": "$115"
+    },
+    {
+      "date": "Wed, Jun 4",
+      "price": "$115"
+    },
+    {
+      "date": "Thu, Jun 5",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jun 6",
+      "price": "$179"
+    },
+    {
+      "date": "Sat, Jun 7",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Jun 8",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Jun 9",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Jun 10",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jun 11",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jun 12",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jun 13",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Jun 14",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jun 15",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Jun 16",
+      "price": "$209"
+    },
+    {
+      "date": "Tue, Jun 17",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jun 18",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jun 19",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jun 20",
+      "price": "$179"
+    },
+    {
+      "date": "Sat, Jun 21",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jun 22",
+      "price": "$259"
+    },
+    {
+      "date": "Mon, Jun 23",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Jun 24",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jun 25",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jun 26",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jun 27",
+      "price": "$209"
+    },
+    {
+      "date": "Sat, Jun 28",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jun 29",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Jun 30",
+      "price": "$179"
+    },
+    {
+      "date": "Tue, Jul 1",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jul 2",
+      "price": "$159"
+    },
+    {
+      "date": "Thu, Jul 3",
+      "price": "$179"
+    },
+    {
+      "date": "Fri, Jul 4",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Jul 5",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jul 6",
+      "price": "$249"
+    },
+    {
+      "date": "Mon, Jul 7",
+      "price": "$179"
+    },
+    {
+      "date": "Tue, Jul 8",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jul 9",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jul 10",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jul 11",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Jul 12",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Jul 13",
+      "price": "$279"
+    },
+    {
+      "date": "Mon, Jul 14",
+      "price": "$179"
+    },
+    {
+      "date": "Tue, Jul 15",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jul 16",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jul 17",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Jul 18",
+      "price": "$179"
+    },
+    {
+      "date": "Sat, Jul 19",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jul 20",
+      "price": "$279"
+    },
+    {
+      "date": "Mon, Jul 21",
+      "price": "$209"
+    },
+    {
+      "date": "Tue, Jul 22",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jul 23",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jul 24",
+      "price": "$179"
+    },
+    {
+      "date": "Fri, Jul 25",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Jul 26",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Jul 27",
+      "price": "$257"
+    },
+    {
+      "date": "Mon, Jul 28",
+      "price": "$179"
+    },
+    {
+      "date": "Tue, Jul 29",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Jul 30",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Jul 31",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Aug 1",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Aug 2",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Aug 3",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Aug 4",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Aug 5",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Aug 6",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Aug 7",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Aug 8",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Aug 9",
+      "price": "$200"
+    },
+    {
+      "date": "Sun, Aug 10",
+      "price": "$200"
+    },
+    {
+      "date": "Mon, Aug 11",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Aug 12",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Aug 13",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Aug 14",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Aug 15",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Aug 16",
+      "price": "$159"
+    },
+    {
+      "date": "Sun, Aug 17",
+      "price": "$220"
+    },
+    {
+      "date": "Mon, Aug 18",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Aug 19",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Aug 20",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Aug 21",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Aug 22",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Aug 23",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Aug 24",
+      "price": "$190"
+    },
+    {
+      "date": "Mon, Aug 25",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Aug 26",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Aug 27",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Aug 28",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Aug 29",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Aug 30",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Aug 31",
+      "price": "$159"
+    },
+    {
+      "date": "Mon, Sep 1",
+      "price": "$229"
+    },
+    {
+      "date": "Tue, Sep 2",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Sep 3",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Sep 4",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Sep 5",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Sep 6",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Sep 7",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Sep 8",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Sep 9",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Sep 10",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Sep 11",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Sep 12",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Sep 13",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Sep 14",
+      "price": "$169"
+    },
+    {
+      "date": "Mon, Sep 15",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Sep 16",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Sep 17",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Sep 18",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Sep 19",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Sep 20",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Sep 21",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Sep 22",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Sep 23",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Sep 24",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Sep 25",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Sep 26",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Sep 27",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Sep 28",
+      "price": "$159"
+    },
+    {
+      "date": "Mon, Sep 29",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Sep 30",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Oct 1",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Oct 2",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Oct 3",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Oct 4",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Oct 5",
+      "price": "$222"
+    },
+    {
+      "date": "Mon, Oct 6",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Oct 7",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Oct 8",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Oct 9",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Oct 10",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Oct 11",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Oct 12",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Oct 13",
+      "price": "$179"
+    },
+    {
+      "date": "Tue, Oct 14",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Oct 15",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Oct 16",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Oct 17",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Oct 18",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Oct 19",
+      "price": "$249"
+    },
+    {
+      "date": "Mon, Oct 20",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Oct 21",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Oct 22",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Oct 23",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Oct 24",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Oct 25",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Oct 26",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Oct 27",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Oct 28",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Oct 29",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Oct 30",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Oct 31",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 1",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 2",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Nov 3",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 4",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 5",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 6",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 7",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 8",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 9",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Nov 10",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 11",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 12",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 13",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 14",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 15",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 16",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Nov 17",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 18",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 19",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 20",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 21",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 22",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 23",
+      "price": "$170"
+    },
+    {
+      "date": "Mon, Nov 24",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 25",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 2",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Nov 3",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 4",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 5",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 6",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 7",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 8",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 9",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Nov 10",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 11",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 12",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 13",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 14",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 15",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 16",
+      "price": "$229"
+    },
+    {
+      "date": "Mon, Nov 17",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 18",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 19",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 20",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 21",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Nov 22",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Nov 23",
+      "price": "$170"
+    },
+    {
+      "date": "Mon, Nov 24",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Nov 25",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Nov 26",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Nov 27",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Nov 28",
+      "price": "$209"
+    },
+    {
+      "date": "Sat, Nov 29",
+      "price": "$319"
+    },
+    {
+      "date": "Sun, Nov 30",
+      "price": "$319"
+    },
+    {
+      "date": "Mon, Dec 1",
+      "price": "$319"
+    },
+    {
+      "date": "Tue, Dec 2",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Dec 3",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Dec 4",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Dec 5",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Dec 6",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Dec 7",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Dec 8",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Dec 9",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Dec 10",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Dec 11",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Dec 12",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Dec 13",
+      "price": "$149"
+    },
+    {
+      "date": "Sun, Dec 14",
+      "price": "$209"
+    },
+    {
+      "date": "Mon, Dec 15",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Dec 16",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Dec 17",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Dec 18",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Dec 19",
+      "price": "$149"
+    },
+    {
+      "date": "Sat, Dec 20",
+      "price": "$179"
+    },
+    {
+      "date": "Sun, Dec 21",
+      "price": "$220"
+    },
+    {
+      "date": "Mon, Dec 22",
+      "price": "$149"
+    },
+    {
+      "date": "Tue, Dec 23",
+      "price": "$149"
+    },
+    {
+      "date": "Wed, Dec 24",
+      "price": "$149"
+    },
+    {
+      "date": "Thu, Dec 25",
+      "price": "$149"
+    },
+    {
+      "date": "Fri, Dec 26",
+      "price": "$209"
+    },
+    {
+      "date": "Sat, Dec 27",
+      "price": "$259"
+    },
+    {
+      "date": "Sun, Dec 28",
+      "price": "$339"
+    },
+    {
+      "date": "Mon, Dec 29",
+      "price": "$170"
+    },
+    {
+      "date": "Tue, Dec 30",
+      "price": "$230"
+    },
+    {
+      "date": "Wed, Dec 31",
+      "price": "$180"
+    }
+  ]
+}
